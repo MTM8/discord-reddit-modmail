@@ -1,0 +1,25 @@
+{
+  "name": "reddit-discord-modmail",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTM8/reddit-discord-modmail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MTM8/reddit-discord-modmail/issues"
+  },
+  "homepage": "https://github.com/MTM8/reddit-discord-modmail#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "snoostorm": "^1.5.1",
+    "snoowrap": "^1.21.0"
+  }
+}
