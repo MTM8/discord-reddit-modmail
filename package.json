@@ -2,7 +2,7 @@
   "name": "reddit-discord-modmail",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +21,8 @@
     "dotenv": "^8.2.0",
     "snoostorm": "^1.5.1",
     "snoowrap": "^1.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
