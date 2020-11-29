@@ -22,7 +22,8 @@
     "discord.js": "^12.4.1",
     "dotenv": "^8.2.0",
     "snoostorm": "^1.5.1",
-    "snoowrap": "^1.21.0"
+    "snoowrap": "^1.21.0",
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
