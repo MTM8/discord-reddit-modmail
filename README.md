@@ -16,3 +16,5 @@ DISCORD_CHANNEL=
 ```
 
 `DISCORD_TOKEN` will be the [Discord API token](https://discord.com/developers/applications) from a created bot.
+
+All Reddit fields can be configured with [reddit-oauth-helper](https://github.com/not-an-aardvark/reddit-oauth-helper).
